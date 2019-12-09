@@ -1,0 +1,41 @@
+%boxSizing {
+  box-sizing: border-box;
+}
+
+[class*="vxe-"] {
+  @extend %boxSizing;
+  *:after, *:before {
+    @extend %boxSizing;
+  }
+}
+
+/*animat*/
+.t--animat {
+  .vxe-sort--asc-btn,
+  .vxe-sort--desc-btn,
+  .vxe-filter--btn {
+    &:before,
+    &:after {
+      @include animatTransition(border);
+    }
+  }
+  .vxe-table--expand-icon{
+    @include animatTransition(all);
+  }
+  .vxe-input--wrapper {
+    .vxe-input {
+      @include animatTransition(border);
+    }
+  }
+  .vxe-tree--node-btn {
+    @include animatTransition(transform);
+  }
+  .vxe-checkbox,
+  .vxe-radio {
+    > input {
+      &:checked+span {
+        @include animatTransition(background-color);
+      }
+    }
+  }
+}

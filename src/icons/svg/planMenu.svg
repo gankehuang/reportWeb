@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="组_5" data-name="组 5" transform="translate(-47 -124)">
+    <rect id="矩形_1" data-name="矩形 1" class="cls-1" width="18" height="18" transform="translate(47 124)"/>
+    <path id="减去_1" data-name="减去 1" class="cls-2" d="M-53,120h-4.687A1.314,1.314,0,0,1-59,118.688v-10.5a1.314,1.314,0,0,1,1.313-1.312H-56.5v1.312h-1.183v2.188h11.375v-2.188h-1.133v-1.312h1.133A1.314,1.314,0,0,1-45,108.187V112l-1.312,1.312v-1.625H-57.687v7h6L-53,120Zm2.094-3.062h-2.188v-1.313h2.188v1.312Zm-3.281,0h-2.188v-1.313h2.188v1.312Zm4.375-.126v-1.187h1.187l-1.185,1.185Zm2.187-2.5h-2.187V113h2.187v1.311Zm-3.281,0h-2.188V113h2.188v1.311Zm-3.281,0h-2.188V113h2.188v1.311Zm6-6.125H-49.5V106h1.313v2.186Zm-2.136,0h-3.294v-1.312h3.294v1.311Zm-4.041,0H-55.68V106h1.312v2.186Z" transform="translate(108 20)"/>
+    <path id="路径_9" data-name="路径 9" class="cls-2" d="M0,0H1.3V8.375L.644,9,0,8.375Z" transform="translate(63.072 133.16) rotate(45)"/>
+  </g>
+</svg>

@@ -1,0 +1,385 @@
+[
+	{
+		"stage": "业绩",
+		"quota": "总利润(万元)"
+	},
+	{
+		"stage": "业绩",
+		"quota": "外销仔猪均价(元/头)"
+	},
+	{
+		"stage": "业绩",
+		"quota": "外销仔猪利润(万元)"
+	},
+	{
+		"stage": "业绩",
+		"quota": "内调仔猪均价(元/头)"
+	},
+	{
+		"stage": "业绩",
+		"quota": "内调仔猪利润(万元)"
+	},
+	{
+		"stage": "业绩",
+		"quota": "外销7kg小种猪均价(元/头)"
+	},
+	{
+		"stage": "业绩",
+		"quota": "外销7kg小种猪利润(万元)"
+	},
+	{
+		"stage": "业绩",
+		"quota": "肥猪平均销售价格(元/斤)"
+	},
+	{
+		"stage": "业绩",
+		"quota": "肥猪利润(万元)"
+	},
+	{
+		"stage": "业绩",
+		"quota": "7KG仔猪成本(元/头)"
+	},
+	{
+		"stage": "业绩",
+		"quota": "单斤销售成本(元/斤)"
+	},
+	{
+		"stage": "业绩",
+		"quota": "单斤标准成本(元/斤)"
+	},
+	{
+		"stage": "后备",
+		"quota": "后备死亡率(%)",
+		"oneWeek": "0.2",
+		"towWeek": "0.2",
+		"threeWeek": "0.2",
+		"fourWeek": "0.2",
+		"nextMonthAims": "0.8",
+		"twoMonthAims": "0.8"
+	},
+	{
+		"stage": "后备",
+		"quota": "后备母猪死亡数(头)"
+	},
+	{
+		"stage": "后备",
+		"quota": "后备母猪淘汰数(头)"
+	},
+	{
+		"stage": "后备",
+		"quota": "后备淘汰率(%)",
+		"oneWeek": "0.25",
+		"towWeek": "0.25",
+		"threeWeek": "0.25",
+		"fourWeek": "0.25",
+		"total": "1"
+	},
+	{
+		"stage": "后备",
+		"quota": "完结批次总头数(头)"
+	},
+	{
+		"stage": "后备",
+		"quota": "完结批次利用率(%)",
+		"oneWeek": "88",
+		"towWeek": "88",
+		"threeWeek": "88",
+		"fourWeek": "88",
+		"nextMonthAims": "88",
+		"twoMonthAims": "88"
+	},
+	{
+		"stage": "后备",
+		"quota": "完结批次死亡率(%)",
+		"oneWeek": "4",
+		"towWeek": "4",
+		"threeWeek": "4",
+		"fourWeek": "4",
+		"nextMonthAims": "4",
+		"twoMonthAims": "4"
+	},
+	{
+		"stage": "后备",
+		"quota": "195日龄以上后备(头)"
+	},
+	{
+		"stage": "后备",
+		"quota": "超280日龄未配(头)"
+	},
+	{
+		"stage": "经产",
+		"quota": "断配猪10天发情率(%)",
+		"oneWeek": "90",
+		"towWeek": "90",
+		"threeWeek": "90",
+		"fourWeek": "90",
+		"nextMonthAims": "90",
+		"twoMonthAims": "90"
+	},
+	{
+		"stage": "经产",
+		"quota": "断配猪10天发情数(头)"
+	},
+	{
+		"stage": "经产",
+		"quota": "35天前配种数(头)"
+	},
+	{
+		"stage": "经产",
+		"quota": "35天受孕率(%)",
+		"oneWeek": "93",
+		"towWeek": "93",
+		"threeWeek": "93",
+		"fourWeek": "93",
+		"nextMonthAims": "93",
+		"twoMonthAims": "93"
+	},
+	{
+		"stage": "经产",
+		"quota": "月度批次空返率(%)",
+		"oneWeek": "1.5",
+		"towWeek": "1.5",
+		"threeWeek": "1.5",
+		"fourWeek": "1.5",
+		"nextMonthAims": "6",
+		"twoMonthAims": "6"
+	},
+	{
+		"stage": "经产",
+		"quota": "空怀数(头)"
+	},
+	{
+		"stage": "经产",
+		"quota": "月度批次流产率(%)",
+		"oneWeek": "1",
+		"towWeek": "1",
+		"threeWeek": "1",
+		"fourWeek": "1",
+		"nextMonthAims": "4",
+		"twoMonthAims": "4"
+	},
+	{
+		"stage": "经产",
+		"quota": "流产数(头)"
+	},
+	{
+		"stage": "经产",
+		"quota": "经产母猪淘汰数(头)"
+	},
+	{
+		"stage": "经产",
+		"quota": "其中：零胎母猪淘汰数(头)"
+	},
+	{
+		"stage": "经产",
+		"quota": "经产母猪淘汰率(%)"
+	},
+	{
+		"stage": "经产",
+		"quota": "经产母猪死亡率(%)",
+		"oneWeek": "0.06",
+		"towWeek": "0.06",
+		"threeWeek": "0.06",
+		"fourWeek": "0.07",
+		"nextMonthAims": "0.25",
+		"twoMonthAims": "0.25"
+	},
+	{
+		"stage": "经产",
+		"quota": "经产母猪死亡数(头)"
+	},
+	{
+		"stage": "经产",
+		"quota": "超49天空怀母猪(头)"
+	},
+	{
+		"stage": "经产",
+		"quota": "母猪上产床(头)"
+	},
+	{
+		"stage": "经产",
+		"quota": "配怀舍母猪日均耗料(kg)"
+	},
+	{
+		"stage": "产房",
+		"quota": "114天前配种数(头)"
+	},
+	{
+		"stage": "产房",
+		"quota": "其中：已损失头数(头)"
+	},
+	{
+		"stage": "产房",
+		"quota": "配种分娩率(%)"
+	},
+	{
+		"stage": "产房",
+		"quota": "分娩窝数(头)"
+	},
+	{
+		"stage": "产房",
+		"quota": "产活仔总数(头)"
+	},
+	{
+		"stage": "产房",
+		"quota": "胎产总仔数(头)",
+		"oneWeek": "11.5",
+		"towWeek": "11.5",
+		"threeWeek": "11.5",
+		"fourWeek": "11.5",
+		"nextMonthAims": "11.5",
+		"twoMonthAims": "11.5"
+	},
+	{
+		"stage": "产房",
+		"quota": "胎产活仔(头)",
+		"oneWeek": "10.8",
+		"towWeek": "10.8",
+		"threeWeek": "10.8",
+		"fourWeek": "10.8",
+		"nextMonthAims": "10.8",
+		"twoMonthAims": "10.8"
+	},
+	{
+		"stage": "产房",
+		"quota": "哺乳死亡率(%)",
+		"oneWeek": "1",
+		"towWeek": "1",
+		"threeWeek": "1",
+		"fourWeek": "1",
+		"total": "4",
+		"nextMonthAims": "4",
+		"twoMonthAims": "4"
+	},
+	{
+		"stage": "产房",
+		"quota": "猪苗次品率(%)",
+		"oneWeek": "3",
+		"towWeek": "3",
+		"threeWeek": "3",
+		"fourWeek": "3",
+		"total": "3",
+		"nextMonthAims": "3",
+		"twoMonthAims": "3"
+	},
+	{
+		"stage": "产房",
+		"quota": "30天死亡数(头)"
+	},
+	{
+		"stage": "产房",
+		"quota": "30天死亡率(%)",
+		"oneWeek": "1.5",
+		"towWeek": "1.5",
+		"threeWeek": "1.5",
+		"fourWeek": "1.5",
+		"total": "1.5",
+		"nextMonthAims": "1.5",
+		"twoMonthAims": "1.5"
+	},
+	{
+		"stage": "产房",
+		"quota": "PSY"
+	},
+	{
+		"stage": "产房",
+		"quota": "超30日龄仔猪存栏(头)"
+	},
+	{
+		"stage": "产房",
+		"quota": "分娩舍母猪日均耗料(kg)",
+		"oneWeek": "6.5",
+		"towWeek": "6.5",
+		"threeWeek": "6.5",
+		"fourWeek": "6.5",
+		"total": "6.5",
+		"nextMonthAims": "6.5",
+		"twoMonthAims": "6.5"
+	},
+	{
+		"stage": "育肥",
+		"quota": "哺乳转保数(头)"
+	},
+	{
+		"stage": "育肥",
+		"quota": "肥猪死亡数(头)"
+	},
+	{
+		"stage": "育肥",
+		"quota": "肥猪死亡率(%)",
+		"oneWeek": "0.25",
+		"towWeek": "0.25",
+		"threeWeek": "0.25",
+		"fourWeek": "0.25",
+		"nextMonthAims": "1",
+		"twoMonthAims": "1"
+	},
+	{
+		"stage": "育肥",
+		"quota": "肥猪批次死亡数(头)"
+	},
+	{
+		"stage": "育肥",
+		"quota": "肥猪批次死亡率(%)"
+	},
+	{
+		"stage": "育肥",
+		"quota": "肥猪上市头数(头)"
+	},
+	{
+		"stage": "育肥",
+		"quota": "其中：提前上市数(头)"
+	},
+	{
+		"stage": "育肥",
+		"quota": "其中：上市次品数(头)"
+	},
+	{
+		"stage": "育肥",
+		"quota": "肥猪平均销售体重(斤/头)"
+	},
+	{
+		"stage": "育肥",
+		"quota": "上市正品率(%)"
+	},
+	{
+		"stage": "育肥",
+		"quota": "提前上市猪占比(%)"
+	},
+	{
+		"stage": "育肥",
+		"quota": "肥猪料肉比(kg)"
+	},
+	{
+		"stage": "供应链",
+		"quota": "兽药采购金额(万元)"
+	},
+	{
+		"stage": "供应链",
+		"quota": "兽药库存金额(万元)"
+	},
+	{
+		"stage": "供应链",
+		"quota": "兽药耗用金额(万元)"
+	},
+	{
+		"stage": "供应链",
+		"quota": "兽药库存天数(天)"
+	},
+	{
+		"stage": "供应链",
+		"quota": "饲料采购数量(吨)"
+	},
+	{
+		"stage": "供应链",
+		"quota": "饲料库存数量(吨)"
+	},
+	{
+		"stage": "供应链",
+		"quota": "饲料耗用数量(吨)"
+	},
+	{
+		"stage": "供应链",
+		"quota": "饲料库存天数(天)"
+	}
+]

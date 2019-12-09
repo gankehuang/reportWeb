@@ -1,0 +1,66 @@
+import {
+  getTree,
+} from "@/api/swine";
+var treeMinxins={
+  data(){
+    return{
+      ids: [], // checked的主表行的id数组
+      entryIds: [], // checked的子表行的id数组
+      selection: [], // checked的行
+      currentRow: {}, // 选中行
+      orgId: "",
+      orgType: "",
+      orgLongNum: "",
+      treeData: [],
+      props: {
+        label: "name",
+        value: "longNumber"
+      },
+    }
+  },
+  created(){
+    // 获取组织树
+    getTree() // { type: "5" }
+      .then(res => {
+        if (res.status == 200) {
+          this.treeData = res.data;
+          if (this.$store.getters.orgInfo) {
+            this.orgLongNum = this.$store.getters.orgInfo.longNumber;
+          }
+          // console.log("123",this.orgLongNum)
+        }
+      })
+      .catch(err => {
+        this.$message({
+          message: "获取组织失败！",
+          type: "error"
+        });
+      });
+  },
+  computed: {
+    longNumber() {
+      return this.$store.getters.orgInfo;
+    }
+  },
+  watch: {
+    longNumber(val) {
+      this.orgLongNum = val.longNumber;
+    }
+  },
+  methods:{
+    handleChangeEvent(val, data) {
+      if (data) {
+        this.orgId = data.id;
+        this.searchForm.orgId=data.id;
+        this.orgName = data.name;
+        this.orgType = data.type;
+      } else {
+        this.orgId = "";
+        this.searchForm.orgId='';
+        this.orgName = "";
+      }
+      this.getProjectList(this.searchForm);
+    }
+  }
+}
+export default  treeMinxins;
